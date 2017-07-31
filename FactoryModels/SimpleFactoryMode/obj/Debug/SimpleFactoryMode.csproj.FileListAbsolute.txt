@@ -1,0 +1,6 @@
+D:\Projects\设计模式\工厂模式\FactoryModels\SimpleFactoryMode\bin\Debug\SimpleFactoryMode.exe.config
+D:\Projects\设计模式\工厂模式\FactoryModels\SimpleFactoryMode\bin\Debug\SimpleFactoryMode.exe
+D:\Projects\设计模式\工厂模式\FactoryModels\SimpleFactoryMode\bin\Debug\SimpleFactoryMode.pdb
+D:\Projects\设计模式\工厂模式\FactoryModels\SimpleFactoryMode\obj\Debug\SimpleFactoryMode.csprojResolveAssemblyReference.cache
+D:\Projects\设计模式\工厂模式\FactoryModels\SimpleFactoryMode\obj\Debug\SimpleFactoryMode.exe
+D:\Projects\设计模式\工厂模式\FactoryModels\SimpleFactoryMode\obj\Debug\SimpleFactoryMode.pdb
