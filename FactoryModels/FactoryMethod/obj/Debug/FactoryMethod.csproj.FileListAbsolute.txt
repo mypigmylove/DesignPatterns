@@ -1,0 +1,6 @@
+D:\Projects\设计模式\工厂模式\FactoryModels\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\Projects\设计模式\工厂模式\FactoryModels\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\Projects\设计模式\工厂模式\FactoryModels\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\Projects\设计模式\工厂模式\FactoryModels\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+D:\Projects\设计模式\工厂模式\FactoryModels\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\Projects\设计模式\工厂模式\FactoryModels\FactoryMethod\obj\Debug\FactoryMethod.pdb
