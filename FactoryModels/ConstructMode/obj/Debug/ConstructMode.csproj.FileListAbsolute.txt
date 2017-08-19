@@ -1,0 +1,6 @@
+D:\Projects\设计模式\工厂模式\FactoryModels\ConstructMode\bin\Debug\ConstructMode.exe.config
+D:\Projects\设计模式\工厂模式\FactoryModels\ConstructMode\bin\Debug\ConstructMode.exe
+D:\Projects\设计模式\工厂模式\FactoryModels\ConstructMode\bin\Debug\ConstructMode.pdb
+D:\Projects\设计模式\工厂模式\FactoryModels\ConstructMode\obj\Debug\ConstructMode.csprojResolveAssemblyReference.cache
+D:\Projects\设计模式\工厂模式\FactoryModels\ConstructMode\obj\Debug\ConstructMode.exe
+D:\Projects\设计模式\工厂模式\FactoryModels\ConstructMode\obj\Debug\ConstructMode.pdb

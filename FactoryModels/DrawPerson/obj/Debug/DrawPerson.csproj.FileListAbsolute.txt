@@ -1,0 +1,6 @@
+D:\Projects\设计模式\工厂模式\FactoryModels\DrawPerson\bin\Debug\DrawPerson.exe.config
+D:\Projects\设计模式\工厂模式\FactoryModels\DrawPerson\bin\Debug\DrawPerson.exe
+D:\Projects\设计模式\工厂模式\FactoryModels\DrawPerson\bin\Debug\DrawPerson.pdb
+D:\Projects\设计模式\工厂模式\FactoryModels\DrawPerson\obj\Debug\DrawPerson.csprojResolveAssemblyReference.cache
+D:\Projects\设计模式\工厂模式\FactoryModels\DrawPerson\obj\Debug\DrawPerson.exe
+D:\Projects\设计模式\工厂模式\FactoryModels\DrawPerson\obj\Debug\DrawPerson.pdb

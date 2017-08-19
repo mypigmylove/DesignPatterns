@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactoryMode", "Simple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{097C9417-9C9F-4F14-A00F-00350DF09C00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructMode", "ConstructMode\ConstructMode.csproj", "{CB0CEDA2-150D-4E18-90BA-BEC8F9285E07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawPerson", "DrawPerson\DrawPerson.csproj", "{F154ED4B-219E-44F2-B97D-9E0BECABE459}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{097C9417-9C9F-4F14-A00F-00350DF09C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{097C9417-9C9F-4F14-A00F-00350DF09C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{097C9417-9C9F-4F14-A00F-00350DF09C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB0CEDA2-150D-4E18-90BA-BEC8F9285E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB0CEDA2-150D-4E18-90BA-BEC8F9285E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB0CEDA2-150D-4E18-90BA-BEC8F9285E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB0CEDA2-150D-4E18-90BA-BEC8F9285E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F154ED4B-219E-44F2-B97D-9E0BECABE459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F154ED4B-219E-44F2-B97D-9E0BECABE459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F154ED4B-219E-44F2-B97D-9E0BECABE459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F154ED4B-219E-44F2-B97D-9E0BECABE459}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
